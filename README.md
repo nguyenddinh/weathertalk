@@ -14,20 +14,28 @@ b. It is a tiny but fun weather forecast web-app with additional features such a
 - And more...
 
 2. Why
+
 Science has shown that the weather affects our mood (https://theconversation.com/here-comes-the-sun-how-the-weather-affects-our-mood-19183)
+
 Based on that I think our small talks about weather is much more than just a small talk.
+
 It is how we express our deepest and unconscious feeling with others (a rare thing nowaday).
+
 So it is nice to have a place where you can have your weather forecast and at the same time lighten up your mood while connect with others.
+
 Weather Talk aims to do just that: Brighten up your day so the sky is the only limit!
 
 3. Where
+
 From Vietnam with a lot of love!
 At weathertalk.epizy.com
 
 4. Who
+
 By Nguyen D.D for everyone
 
 5. How
+
 a. Using multiple API to get: map, weather, location information
 b. Using SQL database to store: ~500 cities weather forecast, chat histories, user account, database for movies, quotes
 c. Using some embed HTMLs to power music player
